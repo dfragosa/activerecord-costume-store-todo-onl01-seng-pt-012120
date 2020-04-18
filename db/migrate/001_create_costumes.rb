@@ -10,7 +10,7 @@
 class CreateCostumes
   
   def change
-    
+    create_table :costumes.map do |t|
   end
   
 end

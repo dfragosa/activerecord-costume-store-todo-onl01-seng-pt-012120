@@ -16,5 +16,4 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :size 
       t.binary :image_url
   end
-  
 end
